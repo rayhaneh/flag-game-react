@@ -1,0 +1,21 @@
+img {
+  height: 300px;
+  border: 2px solid #EEE;
+  margin: 50px 20px;
+}
+
+label {
+  margin: 10px;
+}
+
+input [type='radio']{
+  padding: 15px;
+}
+
+button {
+  border: none;
+  background-color: #f1563e;
+  color: white;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
